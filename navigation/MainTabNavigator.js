@@ -3,7 +3,7 @@
  */
 
 import React from 'react';
-import { FontAwesome } from '@expo/vector-icons';
+import { FontAwesome } from '../components/expo-samples/vector-icons';
 import { TabNavigator, TabBarBottom } from 'react-navigation';
 
 import Colors from '../constants/Colors';
